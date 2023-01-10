@@ -1,2 +1,2 @@
 # GraphGLAPIAutomation
-GraphGLAPIAutomation using restAssured
+GraphGLAPIAutomation using restAssured and testNG Dataproviders
