@@ -1,5 +1,5 @@
-# GraphGLAPIAutomation
-GraphGLAPIAutomation using restAssured and testNG Dataproviders
+# GraphQLAPIAutomation
+GraphQLAPIAutomation using restAssured and testNG Dataproviders
 
 1. testNG tests to send graphQL query as request using restAssured.
 2. Using pojo classes to set graphQL query as string and set using restAssured. 
