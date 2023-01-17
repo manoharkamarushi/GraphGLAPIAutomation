@@ -8,5 +8,5 @@ GraphQLAPIAutomation using restAssured and testNG Dataproviders
 
 Reference:   
 testData apis from https://hasura.io/  
-learning https://github.com/naveenanimation20, https://www.howtographql.com/basics/3-big-picture/
+learned from https://github.com/naveenanimation20, https://www.howtographql.com/basics/3-big-picture/
 
